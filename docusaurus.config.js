@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "Ray's JS CheatSheet ",
   tagline: 'Learn JavaScript with examples',
-  url: 'https://your-alwinray-test-site.com',
+  url: 'https://alwinray37.github.io/JS-CheatSheet/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
